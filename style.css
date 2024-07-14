@@ -1,0 +1,46 @@
+*{
+    margin: 0px 40px;
+    padding: 0px;
+    box-sizing: border-box;
+    /* background-color: black; */
+}
+
+.navContainer{
+    /* border: 1px solid rgb(122, 57, 221); */
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+   
+   background-color: rgb(75, 75, 75);
+   color: white;
+}
+
+.atag{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none !important;
+}
+
+.navLogo{
+    height:100%;
+    /* border: 1px solid blue; */
+   
+}
+
+.search{
+    width: 25px;
+}
+
+.logoDimesion{
+    padding-top: 18px;
+    color: white;
+    /* border: 1px solid blue; */
+
+
+text-wrap: nowrap;
+}
+
+
+
+
